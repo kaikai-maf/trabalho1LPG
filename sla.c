@@ -18,10 +18,10 @@ int main(int argc, char *argv[]) {
 	while (x != 9){
 	printf("\nGerenciamento de Conjuntos\n\n");
 	printf("Menu\n\n");
-    printf("1-Criar um novo conjunto vazio\n");
+    	printf("1-Criar um novo conjunto vazio\n");
 	printf("2-Inserir dados em um conjunto\n");
-    printf("3-Remover um conjunto\n");
-    printf("4-Fazer a uniao entre dois conjuntos\n");
+    	printf("3-Remover um conjunto\n");
+    	printf("4-Fazer a uniao entre dois conjuntos\n");
 	printf("5-Fazer a interseccao entre dois conjuntos\n");
 	printf("6-Mostrar um conjunto\n");
 	printf("7-Mostrar todos os conjuntos\n");
